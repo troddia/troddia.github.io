@@ -19,7 +19,7 @@ title: "Experience"
 **Thesis Project**:
 Development of a Module for the Integration of Electronic Payment Methods in Open Source Moqui Framework
 
-<small>📄 [Download Thesis (Spanish, PDF)](/assets/docs/thesis.pdf)</small>
+<small>📄 [Thesis (Spanish, PDF)](/assets/docs/thesis.pdf)</small>
 
 - Designed and developed an electronic payment integration module (MercadoPago) for the open-source framework Moqui.  
 - Created a reusable code for future integration of other payment gateways like PayPal and WebPay.  

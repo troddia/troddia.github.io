@@ -57,22 +57,23 @@ author:
   name   : "Tomas Rodriguez"
   avatar : "/assets/images/profile.jpeg"
   bio    : "Software Engineer with a B.Sc. in Computer Science and Engineering from the University of Chile."
+  location: "Santiago, Chile"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/tomas-rodriguez-dias/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/troddia"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:troddiav0@gmail.com"
 
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/tomas-rodriguez-dias/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/troddia"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:troddiav0@gmail.com"
 
 defaults:
   # _posts
