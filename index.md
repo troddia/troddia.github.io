@@ -8,7 +8,7 @@ title: "About me"
 permalink: /
 ---
 
-I am a Software Engineer with degrees in Computer Science and Engineering from the University of Chile.  
+I am a Software Engineer with a Bachelor's degree in Computer Science Engineering from the University of Chile.  
 My main strengths are backend development, cloud computing, and optimization, with a strong passion for security—particularly applied cryptography.  
 
 I enjoy building ideas from scratch and following them through the entire flow—from design to deployment. I also plan to pursue graduate studies to further deepen my expertise in security and cryptography.

@@ -2,9 +2,6 @@
 permalink: /projects/
 title: "Projects:"
 ---
-## **Rifraff**
-### Coming soon...
-
 
 ## **GODRHYTHM**
 

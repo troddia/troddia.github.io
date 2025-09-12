@@ -3,4 +3,6 @@ main:
     url: /experience/
   - title: "Projects"
     url: /projects/
+  - title: "CV"
+    url: /assets/docs/CV-Tomas-2025.pdf
 
